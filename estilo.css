@@ -10,8 +10,8 @@ html, body, .capa{
 }
 
 body{
-    background: url(../spotify-project/imagens/capa.jpg),
-                linear-gradient(50deg,#ff4169, #7c26f8);
+    background: url(../projeto_spotify/imagens/capa.jpg),
+                linear-gradient(50deg, rgba(1,108,143), rgba(1,139,188));
                 background-attachment: fixed;
                 font-family: Arial, Helvetica, sans-serif;
                 overflow-x: hidden;
@@ -33,7 +33,7 @@ nav.navbar-transparente {
     height: 40px;
     width: 132px;
     display: block;
-    background: url(../spotify-project/imagens/spotify.svg) no-repeat;
+    background: url(../projeto_spotify/imagens/spotify.svg) no-repeat;
     background-size: contain;
     color: transparent;
 }
